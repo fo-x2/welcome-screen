@@ -1,0 +1,29 @@
+# Python 虚拟环境（体积大，不需要同步）
+.venv/
+venv/
+env/
+
+# PyCharm / IDE 配置
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# 构建产物
+dist/
+build/
+*.egg-info/
+
+# 环境变量
+.env
+
+# 系统文件
+Thumbs.db
+.DS_Store

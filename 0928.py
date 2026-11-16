@@ -1,0 +1,2 @@
+a = 'oooox'
+print('\a')

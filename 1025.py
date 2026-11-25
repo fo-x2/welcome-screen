@@ -5,7 +5,7 @@ else:
     print('no')
 
 i = 1
-while i <= 5:
+while i <= 100:
     print(f"第{i}圈")
-    i += 1
+    i += 6
 print("跑步结束!")

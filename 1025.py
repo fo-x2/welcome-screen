@@ -4,7 +4,7 @@ if a >= 100:
 else:
     print('no')
 
-i = 1
+i = 5.5
 while i <= 100:
     print(f"第{i}圈")
     i += 6
